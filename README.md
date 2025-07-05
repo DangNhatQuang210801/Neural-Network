@@ -18,14 +18,14 @@ Builds a basic neural network that classifies digits into two categories: `0` vs
 ### 4. `Handwritten Digit Recognition.ipynb`
 Extends the previous notebook to support multiclass classification for all digits (`0–9`) using a fully connected neural network. Includes softmax activation and cross-entropy loss.
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - Python 3
 - NumPy
 - Matplotlib
 - Jupyter Notebook
 
-## 🧠 Topics Covered
+## Topics Covered
 
 - Derivatives and gradients
 - Forward propagation
